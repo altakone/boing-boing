@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 086de63dcf055bc45bd8b028cb7cda67
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - shopPanel: {instanceID: 0}
+  - leaderboardPanel: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
